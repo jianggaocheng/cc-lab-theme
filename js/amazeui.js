@@ -10182,8 +10182,6 @@
 
           var $element = this.$element;
           var $holder = $('<div class="am-sticky-placeholder"></div>').css({
-            height: $element.css('position') != 'absolute' ?
-              $element.outerHeight() : '',
             float: $element.css('float') != 'none' ? $element.css(
               'float') : '',
             margin: $element.css('margin')

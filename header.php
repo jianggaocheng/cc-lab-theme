@@ -1,3 +1,4 @@
+<? header("Access-Control-Allow-Origin: *"); ?>
 <!DOCTYPE html>
 <html lang="zh-CN" class="no-js">
 <head>
